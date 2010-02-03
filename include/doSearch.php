@@ -1,5 +1,6 @@
 <?php
 	
+//Calculate the total runtime of this page
 function totalTime($start_time)
 {
   echo ("<br>Total page execution time <font color=green size=+1>");
@@ -13,6 +14,7 @@ function totalTime($start_time)
   return $x;
 }
 
+//Print list of possible suspect matches to an HTML table
 function printResults($output_type, $suspName, $suspSSN, $multiSearch, $possibles)
 {
 		global $count_exact, $count_partial;
@@ -81,6 +83,9 @@ function printResults($output_type, $suspName, $suspSSN, $multiSearch, $possible
 		return $count_exact;
 }
 
+//Search across multiple databases to find possible suspect name matches.
+//Uses Levenshtein distance, substring identification, and Soundex comparisons
+//	in order to identify potential matches.  See paper for algorithm discussion.
 function doSearch()  //performs a search and prints results
 {
 
