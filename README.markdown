@@ -10,7 +10,7 @@ A quick perusal of the code will reveal a naive lack of XHTML compliance, any so
 
 I have learned a lot about software engineering since then and I'm currently revisiting PHP (and Clojure and several other technologies).  Follow along on [my Posterous blog](http://dpritchett.posterous.com) or here on github if you're curious.
 
-- Daniel
+_Daniel_
 
 # Project overview reprinted from thesis first draft:
 The goals of this experiment: To create a sample web application that allows the user to perform custom queries on a federated criminal justice database, to identify and analyze applicable data de-duplication methods, to document the decision-making process involved in creating the system, and to produce a system template that can be readily adapted to fit other needs.  To that end, the system design will be as affordable as possible.
