@@ -1,6 +1,6 @@
 # tl;dr: Skip to [/include/doSearch.php](http://github.com/dpritchett/criminal_justice_alias_finder_thesis/blob/master/include/doSearch.php) to see the meat
 
-# Explore multiple methods to detect aliases and clerical errors in a federated criminal justice database
+# Project history and discussion of lessons learned since 2005
 
 This source code was written in 2004 and 2005 by [Daniel J. Pritchett](http://www.sharingatwork.com) in support of a thesis for a Master's in Computer Science from the University of Alabama.
 
