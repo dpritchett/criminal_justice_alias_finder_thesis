@@ -1,5 +1,13 @@
 <?php
+
+/*
+	This doSearch page has three functions:
+	doSearch() hits our databases looking for partially matching suspect names
+	printResults() generates an HTML table containing the results of doSearch()
+	totalTime() calculates the execution time of this page for inclusion in printResults()
+*/
 	
+
 //Calculate the total runtime of this page
 function totalTime($start_time)
 {
