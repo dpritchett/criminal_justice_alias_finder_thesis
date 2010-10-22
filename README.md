@@ -2,7 +2,7 @@
 
 # Project history and discussion of lessons learned since 2005
 
-This source code was written in 2004 and 2005 by [Daniel J. Pritchett](http://www.sharingatwork.com) in support of a thesis for a Master's in Computer Science from the University of Alabama.
+This source code was written in 2004 and 2005 by [Daniel J. Pritchett](http://www.sharingatwork.com) in support of a thesis for a Master's in Computer Science from the University of Alabama.  [Click here for the paper in PDF form](https://docs.google.com/leaf?id=0B4mDL5-uI4G3YjBlMGE3NDgtNTcwMy00MjU4LThhZjItYjk3YTJlOTBhMDVk&sort=name&layout=list&num=50).
 
 The tools used are PHP and MySQL - the 2005 stable versions.  Databases were hosted on Windows XP Professional workstations in a university computer lab.
 
